@@ -1,4 +1,4 @@
-/* setTimeout(() => {
+setTimeout(() => {
     console.log("hiii")
 }, 3000);
 
@@ -11,7 +11,7 @@ let timer = setInterval(() => {
         clearInterval(timer)
         console.log("gameOver")
     }
-},2000); */
+},2000);
 
 
 
